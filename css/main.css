@@ -1,0 +1,191 @@
+/*kevo*/
+nav .group {
+    padding-top: 70px;
+    margin-top: 40px;
+    
+}
+.h1{
+    color: black;
+    font-family: cursive
+    font-style:italic;
+    
+}
+.offers p{
+    color:black;
+}
+.part1{
+    float:left;
+    width: 250px;
+    color:black;
+    
+}
+.part2{
+    float: left;
+    width: 340px;
+    
+}
+h6{
+    font-size: 15px;
+    line-height: 5px;
+}
+
+label{
+    line-height: 5px
+}
+
+.offers{
+	text-align:center;
+}
+
+.h1{
+	font-size:20px;
+	font-weight:bold
+}
+
+.offers p{
+	font-style:italic;
+	}
+
+.sec1{
+    color:black;
+	float:left;
+	width:100%;
+    text-align: center;
+	}
+	
+.offer1{
+    padding-left: 20px;
+	float:left;
+	width:30%;
+        text-align: center;
+}
+
+.offer2{
+    padding-left: 20px;
+	float:left;
+	width:30%;
+        text-align: center;
+}
+
+.offer3{
+    padding-left: 20px;
+	float:left;
+	width:30%;
+        text-align: center;
+}
+
+.sec2{
+	clear:both;
+	float:left;
+	width:100%;
+}
+
+.offer4{
+	float:left;
+	width:47%
+}
+
+.offer5{
+	float:left;
+	width:47%
+}
+
+footer{
+	clear:both
+}
+
+/*kevo*/
+.first{
+   background-color: cadetblue;
+   text-align: center;
+   height: 200px;
+   letter-spacing: 1px;
+   text-transform: capitalize
+
+
+}
+.second{
+   background-color: cadetblue;
+    text-align: center;
+}
+.second p{
+   font-size: 20px;
+    padding: 15px;
+}
+body{
+ background-color: gainsboro;
+ color: white;
+ width: auto;
+ margin: 40px;
+ 
+ 
+}
+.third{
+    background-color: cadetblue;
+    text-align: center;
+    height: 150px;
+    
+}
+.social{
+    
+}
+.logo{
+    float: left;
+    padding-bottom: 40px;
+    padding-top: 60px;
+    margin: 5px;
+
+}
+
+.group{
+    float: right;
+    margin-right: 5px;
+}
+.group a{
+ text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin: 5px;
+}
+.fourth a{
+    float: right;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.pic1{
+    float: left;
+}
+.pic2{
+    margin-left: 309px;
+    position: relative;
+    bottom: 140px;
+    height: 255px;
+    padding: px;
+}
+.ex{
+    margin-right: 450px;
+}
+.later{
+    float: right;
+}
+.clean{
+ color: black;
+ background-color: cadetblue;
+ font-size: 20px;
+ text-align: center;
+ padding: 15px;
+}
+.meal{
+    color: black;
+}
+.come{
+    color: black;
+    font-size: 20px;
+}
+.later{
+    position: relative;
+    bottom: 724px;
+}
